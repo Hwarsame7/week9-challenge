@@ -22,4 +22,5 @@ screenshots
 
 inquirer CLI
 
+<img width="1440" alt="Screenshot 2024-02-05 at 15 45 47" src="https://github.com/Hwarsame7/week9-challenge/assets/146027409/9fbe452b-46e9-41e5-b078-c7d5f54f6224">
 
