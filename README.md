@@ -1,12 +1,12 @@
 Here the user interacts with the inquirer CLI that generates some questions and the user inputs their answers. The users response is then used to generate a readme.md
 
 Github URL
-
-https://anabwarsame.github.io/read-me-generator/
+https://github.com/Hwarsame7/week9-challenge
 
 Screen recording link
 
-https://watch.screencastify.com/v/GDpL74ZAX2mFq8NngTYx
+
+
 
 User Story
 
