@@ -13,8 +13,9 @@ As as user when I submit npm run start in my terminal i should be directed to a 
 Installation
 
 in order to run my series of questions run this command line
+node.index
 
-npm run start
+
 Technologies used
 
 inquirer
