@@ -4,9 +4,7 @@ Github URL
 https://github.com/Hwarsame7/week9-challenge
 
 Screen recording link
-
-
-
+https://drive.google.com/file/d/17y98Fw_kMKkdak8F4w9S77rAQYBRq2Ty/view
 
 User Story
 
@@ -23,4 +21,5 @@ inquirer
 screenshots
 
 inquirer CLI
+
 
